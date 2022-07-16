@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Arxu-Sec Dev API Package",
   "main": "index.js",
+  "homepage": "https://github.com/Aoun-Abu-Hassan/arxu-sec-dev",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
